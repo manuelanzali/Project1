@@ -11,7 +11,7 @@
 
 ## About our Analysis
 
-● The intention of this was to explore whether certain factors affect the amount of time spent or productive time lost on social media. As well as analyze the distribution of time 
+The intention of this was to explore whether certain factors affect the amount of time spent or productive time lost on social media. As well as analyze the distribution of time 
 spent on the social media platforms. 
 
 
