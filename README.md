@@ -4,7 +4,7 @@
 ## Table Of Contents:
 
 1. About our Analysis
-2. Data Visualizations
+2. Data Visualizations and statistics using Scipy, numpy, MatPlotLib and Anova Test
 3. Conclusion
 4. Limitations
 5. Citations
@@ -52,13 +52,13 @@ spent on the social media platforms.
 ![image](https://github.com/user-attachments/assets/260f2655-8f73-4cb2-bac4-221b456b8c49)
 
 
-#### Average Time Spent across different platforms-
+### Average Time Spent across different platforms-
 ![image](https://github.com/user-attachments/assets/ba592824-64d5-42f7-a084-d41253e3d1c8)
 
 ![image](https://github.com/user-attachments/assets/9baa447b-399f-4afa-808b-d1a27263f63d)
 
 
-#### Analyzing user satisfaction amongst different social media platforms by age group-
+### Analyzing user satisfaction amongst different social media platforms by age group-
 ![image](https://github.com/user-attachments/assets/86d99a8e-f709-475d-b71f-2d64427cf6ab)
 
 
