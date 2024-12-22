@@ -43,11 +43,15 @@ spent on the social media platforms.
 #### Analyzing individuals across different professions with Debt-
 ![image](https://github.com/user-attachments/assets/29b3f73b-df28-4f43-ad97-bd0a1812443c)
 
+##### Anova Results:
+
 ![image](https://github.com/user-attachments/assets/919dee6d-8cfa-4088-bbf1-c73c94410237)
 
 
 #### Analyzing individuals across different professions with no Debt-
 ![image](https://github.com/user-attachments/assets/b90b565d-d2cf-4211-84ad-97f7f58fe23e)
+
+##### Anova Results:
 
 ![image](https://github.com/user-attachments/assets/260f2655-8f73-4cb2-bac4-221b456b8c49)
 
