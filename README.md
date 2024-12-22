@@ -15,7 +15,7 @@ The intention of this was to explore whether certain factors affect the amount o
 spent on the social media platforms. 
 
 
-## VISUALIZATIONS
+## Visualizations
 
 
 ### Total time spent on social media and how productivity loss differs globally:
